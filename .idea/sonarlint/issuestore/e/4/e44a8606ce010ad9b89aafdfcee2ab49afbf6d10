@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙÄÿÊ8•Ìáÿ¬-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8ËˆÔÿ¬-
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(÷ŠÉ˜üÿÿÿÿ8Ê§†€­-
+nsquid:S3027"KPut single-quotes around '\\' to use the faster "lastIndexOf(char)" method.(‚ó¤¯úÿÿÿÿ8ËˆÔÿ¬-
+Z
+squid:S899"=Do something with the "boolean" value returned by "renameTo".(Ä—±˜8ËˆÔÿ¬-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Ñ’ˆ8•Ìáÿ¬-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËˆÔÿ¬-
+º%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(Ô‰‚õùÿÿÿÿ8µĞ†€­-
